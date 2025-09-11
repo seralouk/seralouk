@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Serafeim Loukas
 
-💡 **Data Scientist @ IATA (Geneva)** | PhD (EPFL, CH), MSc (UNIGE, CH), MSc (NTUA, GR)
+💡 **Senior Data Scientist @ IATA (Geneva)** | PhD (EPFL, CH), MSc (UNIGE, CH), MSc (NTUA, GR)
 🌍 Bridging **machine learning, data science & AI** with real-world applications in aviation, healthcare, and engineering.  
 
 At IATA, I design and implement cross-divisional ML solutions that drive global business value, and I represent IATA at the **European AI Office** for the drafting of the *General-Purpose AI Code of Practice*.  
