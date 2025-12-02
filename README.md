@@ -71,7 +71,7 @@ I provide **custom consulting** in:
 
 ## 🌐 Find Me Online
 - [Medium Articles](https://medium.com/@seralouk)  
-- [EPFL Profile](https://miplab.epfl.ch/index.php/people/loukas)  
+- [EPFL Profile](https://miplab.epfl.ch/people)
 - [University of Geneva](https://www.unige.ch/medecine/petri/fr/groupes-de-recherche/184huppi/membres-du-groupe/serafeim-loukas/)  
 - [UNIBE Research](https://www.neuroscience.unibe.ch/research/research_groups/functional_neurological_disorder_fnd_research_group/)  
 
